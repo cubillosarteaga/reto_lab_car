@@ -1,0 +1,186 @@
+.first{
+	background-image: url('../images/taxi.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 10em;
+	background-position: 100% 91%;
+}
+
+.barnav{
+	padding: 1em 7em 2em 7em;
+	background-color: #fff;
+	border:none;
+	border-radius: 0%;
+}
+
+.navbar-link{
+	font-size: 16px;
+	padding-top: 2em;
+	margin-right: 1em;
+}
+
+.logo{
+	width: 10%;
+	height: 10%;
+}
+
+.yellow{
+	background-color: #F7B617;
+	color: #fff;
+	float: right;
+	padding: 2em 0em 3.5625em 5em;
+    margin-top: 8em;
+}
+
+.second{
+	background-color: #F7B617;
+	padding-top: 4em;
+	padding-bottom: 4em;
+	color: #fff;
+}
+
+.line{
+	border-top: 0.2em #fff solid;
+	border-right: 0.2em #fff solid;
+	border-bottom: 0.2em #fff solid;
+	padding: 4em;
+	width: 75%;
+}
+
+.line2{
+  border-top: 0.1em #fff solid;
+  border-bottom: 0.1em #fff solid;
+}
+
+.paragraph{
+	font-size: 17px;
+	padding-top: 1em;
+}
+
+.third{
+	background-image: url('../images/conduce.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+  background-position: 23% 30%;
+}
+
+h5{
+	text-align: center;
+}
+
+.opacity{
+	background-color: rgba(0,0,0,0.5);
+	padding-bottom: 18em;
+  color: #fff;
+}
+
+.text{
+	padding-top: 9em;
+	padding-left: 5em;
+}
+
+.text .boton{
+	background-color: #F7B617;
+	font-size: 14px;
+}
+
+.fourth{
+	background-color: #F7B617;
+  padding-bottom: 6em;
+  padding-top: 6em;
+  color: #fff;
+}
+
+.inp{
+  background-color: #F7B617;
+  border: none;
+}
+
+.ctrl{
+  border: 0.1em solid #fff;
+  background-color: #F7B617;
+  color: #fff;
+  
+}
+.ctrl::placeholder {
+  color: #fff;
+}
+
+.buton{
+  margin-top: 2em;
+  margin-left: 15em;
+}
+
+.group{
+  margin-bottom: 3em;
+}
+
+.rate{
+  margin-top: 3em;
+}
+
+footer{
+  background-color: #2B2B2B;
+  padding-top: 3em;
+  color: #fff;
+  padding-bottom: 3em;
+}
+
+li{
+  list-style:none;
+  padding-top: 3em;
+}
+
+.foo{
+  margin-left: 1em;
+  padding-top: 1em;
+}
+
+.list{
+  display: inline-block;
+  padding-top: 34em;
+  font-size: 14px;
+  padding-right: 2em;
+}
+
+.imag{
+  padding-top: 24em;
+}
+
+.iconhidden{
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.two{
+  padding-bottom: 0em;
+  padding-top: 0em;
+}
+
+.lg{
+	margin-top: 2em;
+}
+
+.new{
+  margin-left: 5em;
+}
+
+.new2{
+  margin-left: 3em;
+}
+
+.mod{
+  text-align: center;
+}
+
+.add{
+  margin-bottom: 5em;
+}
+
+.user{
+  margin-bottom: 3em;
+}
+
+.contenido{
+  text-align: center;
+}

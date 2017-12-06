@@ -1,0 +1,20 @@
+@media (min-width: 272px) and (max-width: 700px){
+ .line{
+ 	border: 0.2em solid #fff;
+ 	margin-left: 6em;
+ }
+
+ .imag{
+ 	padding-top: 5em;
+ }
+
+.map{
+	margin-left: 6em;
+	margin-top: 3em;
+}
+
+.imag{
+  padding-top: 0em !important;
+}
+}
+
